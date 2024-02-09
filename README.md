@@ -32,16 +32,24 @@ To use the Calorie Counter, follow these steps:
 1. Clone the repo git clone 
 ```bash
 https://github.com/your_username/your_repository.git
+```
 
 2. Navigate into the project directory 
 
+
 ```bash
 cd CalorMate
+```
 
 3. Install dependencies
+
 ```bash
  npm install
+ ```
+
 
 ### Usage
+
 ```bash
- npm run dev
+npm run dev
+ ```
