@@ -22,7 +22,7 @@ To use the Calorie Counter, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/yourusername/CalorMate.git`
 2. Open `index.html` in your web browser.
-3. live Demo:
+3. Live Demo: https://main--calormate.netlify.app
 
 ### Prerequisites
 
