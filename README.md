@@ -20,9 +20,13 @@ The Calorie Counter is a minimalist web application designed to help users track
 
 To use the Calorie Counter, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/yourusername/CalorMate.git`
+1. Clone the repository: `https://github.com/Jospeeth/CalorMate.git`
 2. Open `index.html` in your web browser.
+<<<<<<< HEAD
 3. Live Demo: <a href="https://calormate.netlify.app/" target="_blank">CalorMate</a>
+=======
+3. Live Demo: <a href="https://calormate.netlify.app" target="_blank">CalorMate</a>
+>>>>>>> 5f51a9d5d4b874b73b604c0150157013c72c5ec9
 
 
 ### Prerequisites
